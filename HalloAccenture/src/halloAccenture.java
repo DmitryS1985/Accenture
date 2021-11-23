@@ -1,5 +1,6 @@
 public class halloAccenture {
     public static void main(String[] args) {
+        int new_variable;
         byte first = 1;
         short second = 2;
         int third = 3;
